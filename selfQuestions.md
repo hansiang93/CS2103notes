@@ -95,6 +95,10 @@ Good luck! <3
 ### Mock exam? Just try bah
 
 
+#### Project Management
+
+
+
 
 #### Testing
 
@@ -110,4 +114,18 @@ Good luck! <3
   Answer: True
 
   this is to start testing as early as possible, before a full product is released.
+</details>
+
+<details> 
+  <summary> Scripted testing is better than exploratory testing</summary>
+  Answer: False
+
+  A mix of both is better than either.
+</details>
+
+<details> 
+  <summary> A test driver is a person that tests the SUT for the purpose of testing</summary>
+  Answer: False
+
+  A test driver is the code that ‘drives’ the SUT for the purpose of testing
 </details>
