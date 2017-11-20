@@ -1,13 +1,15 @@
 # Instructions
 
 
-### Quesiton goes here!
+<details> 
+  <summary>Q1: Questions go here! </summary>
+   A1: Answers go here
 
-!> Use this notation to hide your answers!
+  <summary>Q2: Questions go here! </summary>
+   A2: Answers go here
 
-### Next Question!
+</details>
 
-!> Next answer!
 
 
 # Revision Control
