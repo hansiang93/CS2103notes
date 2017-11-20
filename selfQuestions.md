@@ -100,10 +100,14 @@ Good luck! <3
 
 <details> 
   <summary> Testing how easy it is to use a software is a form of Integration Testing</summary>
-  Answer: False, this is a form of System testing
+  Answer: False
+
+  this is a form of System testing
 </details>
 
 <details> 
   <summary> When a developer tests a SUT, it is called Developer Testing</summary>
-  Answer: True, this is to start testing as early as possible, before a full product is released.
+  Answer: True
+
+  this is to start testing as early as possible, before a full product is released.
 </details>
