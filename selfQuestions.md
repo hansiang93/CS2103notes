@@ -4,6 +4,8 @@ Follow the following syntax to add more questions
 
 Use the header notations for topics and sub topics.
 
+Mark your commits with the various topics that you added. If you added to Revision Control, mark it as "RCS - [optional information]". If more than 1 topic, just list the topics, like "RCS, Unit Testing, IDEs".
+
 Good luck! <3
 
 <details> 
