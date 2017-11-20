@@ -129,3 +129,10 @@ Good luck! <3
 
   A test driver is the code that ‘drives’ the SUT for the purpose of testing
 </details>
+
+<details> 
+  <summary> A stub can be used to inject into an object for the purpose of testing in islation</summary>
+  Answer: True
+
+  Dependency injection is the process of 'injecting' objects to replace current dependencies with a different object. This is often used to inject stubs to isolate the SUT from its dependencies so that it can be tested in isolation.
+</details>
