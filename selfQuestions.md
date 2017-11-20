@@ -33,6 +33,29 @@ Good luck! <3
 </details>
 
 <details> 
+  <summary> Which RCS flow does not have branches?</summary>
+  Centralised flow!
+
+  There is a distributed RCS and centralised RCS. Distributed has multiple remotes that PR each other.
+
+  Forking flow is what we did for CS2103, 1 main and everyone forks from there and PR back.
+
+  Feature Branch Flow is 1 Main, with multiple branches inside with a feature each, and merges back to Main.
+
+  Centralised Flow is this markdown form. Free For all.
+</details>
+
+<details> 
+  <summary></summary>
+  
+</details>
+
+<details> 
+  <summary></summary>
+  
+</details>
+
+<details> 
   <summary></summary>
   
 </details>
