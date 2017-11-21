@@ -90,6 +90,14 @@ Good luck! <3
 
 ## Testing
 
+<details>
+  <summary>How does the Singleton pattern affect the testability of a Java application? </summary>
+  A: Singletons reduce testability due to these reasons: 
+  
+  * They create implicit dependencies that are hard to replace using dependency injection because Java doesn’t allow overriding of static members. 
+  
+  * Singleton object represents a global ‘state’. If the state of the Singleton affects the test case execution, then the Singleton object needs to be ‘reset’ at the beginning of each test case. 
+  </details>
 
 
 ### Mock exam? Just try bah
