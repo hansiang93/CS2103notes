@@ -89,10 +89,64 @@ Good luck! <3
 ### Mock exam? Just try bah
 
 
-#### Project Management
+#### Design
+
+<details> 
+  <summary> There are 2 aspects of design, internal and external design.</summary>
+  A: True
+
+  * External design, or product design, is to meet the users' requirements. Usually done by product designers
+
+  * Internal, or implementation design, is implemented to meet the required external design/behaviour. Usually done by Software Engineers.
+</details>
+
+<details> 
+  <summary> External design of the software is usually done by Software Engineers</summary>
+  A: False
+
+  * Usually done by product designers
+</details>
+
+<details> 
+  <summary> A multi level design is used only for large and novel softwares</summary>
+  A: False
+
+  * Big enough softwares can use multi level design, such as Addressbook level 4
+</details>
 
 
+<details> 
+  <summary> Abstraction is a technique used for dealing with complexicity</summary>
+  A: True
 
+  * Used to simplify design by supressing complexicity into lower levels
+</details>
+
+<details> 
+  <summary> Highly coupled components is easier to integrate due to the high dependency between them</summary>
+  A: False
+
+  * Highly coupled components have to be integrated together and is harder to do so at the same time.
+</details>
+
+
+<details> 
+  <summary> Strong coupling is discouraged due to the degree of complexicity in implementation</summary>
+  A: False
+
+  * Strong coupling does not mean highly complex. It is discouraged due to 
+  ** higher maintenance, 
+  ** harder integration with other components, and 
+  ** harder to test and reuse.
+</details>
+
+
+<details> 
+  <summary></summary>
+  A: 
+
+  * Explain [optional]
+</details>
 
 #### Testing
 
