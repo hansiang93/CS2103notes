@@ -26,67 +26,7 @@ Good luck! <3
 </details>
 <!-- template -->
 
-## Revision Control
-
-<details> 
-  <summary> What is Revision Control? </summary>
-   A: RC is the process of managing multiple version of information
-</details>
-
-<details> 
-  <summary> What does a commit save?</summary>
-  A: Committing saves a SNAPSHOT of the tracked files. Stage the changes -> commit the changes.
-</details>
-
-
-<details> 
-  <summary> What can RC help you with?</summary>
-  A: Collaboration, recovering from mistakes, manage drift between multiple versions of project, detect incompatible changes to the same file.
-</details>
-
-<details> 
-  <summary> Which RCS flow does not have branches?</summary>
-  A: Centralised flow!
-
-  * There is a distributed RCS and centralised RCS. Distributed has multiple remotes that PR each other.
-
-  * Forking flow is what we did for CS2103, 1 main and everyone forks from there and PR back.
-
-  * Feature Branch Flow is 1 Main, with multiple branches inside with a feature each, and merges back to Main.
-
-  * Centralised Flow is this markdown form. Free For all.
-</details>
-
-## IDE
-
-
-<details> 
-  <summary>Debugging is the process of?</summary>
-  A: Debugging is the process of discovering defects in the program.
-
-
-  * 👎 By inserting temporary print statements
-
-  * 👎 By manually tracing through the code
-
-  * 👍 Using a debugger
-  * Allows for step wise running of code in real time
-
-</details>
-
-## Testing
-
-<details>
-  <summary>How does the Singleton pattern affect the testability of a Java application? </summary>
-  A: Singletons reduce testability due to these reasons: 
-  
-  * They create implicit dependencies that are hard to replace using dependency injection because Java doesn’t allow overriding of static members. 
-  
-  * Singleton object represents a global ‘state’. If the state of the Singleton affects the test case execution, then the Singleton object needs to be ‘reset’ at the beginning of each test case. 
-  </details>
-
-
-### Mock exam? Just try bah
+### Mock exam? Answer TRUE or FALSE.
 
 
 #### Design
@@ -289,3 +229,66 @@ Good luck! <3
 
   * Good code is its own best documentation, and self-explainatory code does not need to be documented.
 </details>
+
+
+## Other notes
+
+
+### Revision Control
+
+<details> 
+  <summary> What is Revision Control? </summary>
+   A: RC is the process of managing multiple version of information
+</details>
+
+<details> 
+  <summary> What does a commit save?</summary>
+  A: Committing saves a SNAPSHOT of the tracked files. Stage the changes -> commit the changes.
+</details>
+
+
+<details> 
+  <summary> What can RC help you with?</summary>
+  A: Collaboration, recovering from mistakes, manage drift between multiple versions of project, detect incompatible changes to the same file.
+</details>
+
+<details> 
+  <summary> Which RCS flow does not have branches?</summary>
+  A: Centralised flow!
+
+  * There is a distributed RCS and centralised RCS. Distributed has multiple remotes that PR each other.
+
+  * Forking flow is what we did for CS2103, 1 main and everyone forks from there and PR back.
+
+  * Feature Branch Flow is 1 Main, with multiple branches inside with a feature each, and merges back to Main.
+
+  * Centralised Flow is this markdown form. Free For all.
+</details>
+
+### IDE
+
+
+<details> 
+  <summary>Debugging is the process of?</summary>
+  A: Debugging is the process of discovering defects in the program.
+
+
+  * 👎 By inserting temporary print statements
+
+  * 👎 By manually tracing through the code
+
+  * 👍 Using a debugger
+  * Allows for step wise running of code in real time
+
+</details>
+
+### Testing
+
+<details>
+  <summary>How does the Singleton pattern affect the testability of a Java application? </summary>
+  A: Singletons reduce testability due to these reasons: 
+  
+  * They create implicit dependencies that are hard to replace using dependency injection because Java doesn’t allow overriding of static members. 
+  
+  * Singleton object represents a global ‘state’. If the state of the Singleton affects the test case execution, then the Singleton object needs to be ‘reset’ at the beginning of each test case. 
+  </details>
